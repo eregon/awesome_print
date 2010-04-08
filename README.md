@@ -23,7 +23,7 @@ Default options:
     :multiline => true,
     :plain  => false,
     :indent => 4,
-    :colors => {
+    :color => {
       :array      => :white,
       :bignum     => :blue,
       :class      => :yellow,

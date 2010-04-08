@@ -224,8 +224,8 @@ class AwesomePrint
     @@defaults ||= {}
   end
 
-  def self.defaults=(*args)
-    @@defaults = *args
+  def self.defaults=(defaults)
+    @@defaults = defaults
   end
 
 end
